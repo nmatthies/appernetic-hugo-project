@@ -2,13 +2,13 @@
 baseurl = "http://www.example.com"
 
 # Site title
-title = "sitename"
+title = "Cosotec"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2019 Cosotec"
 
 # Language
-languageCode = "en-EN"
+languageCode = "de-DE"
 
 # SES friendly url:s
 canonifyurls = true
@@ -36,8 +36,8 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Nico M"
+    email = "nico.matthies@cosotec.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -60,7 +60,7 @@ disqusShortname = "your_disqus_shortname"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID

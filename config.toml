@@ -1,7 +1,7 @@
 baseurl = "https://nmatthies.github.io"
-title = "Universal"
+title = "Cosotec"
 theme = "hugo-universal-theme"
-themesDir = "../.."
+themesDir = "themes/"
 languageCode = "de-de"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "de"
@@ -42,26 +42,8 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:nico.matthies@cosotec.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -108,8 +90,8 @@ paginate = 10
         <strong>Great Britain</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = ""
+    longitude = ""
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

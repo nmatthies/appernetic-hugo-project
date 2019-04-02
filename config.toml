@@ -3,10 +3,13 @@ title = "Cosotec"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
 languageCode = "de-de"
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "de"
+
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
